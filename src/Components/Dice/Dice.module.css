@@ -1,0 +1,19 @@
+
+
+.dice {
+    width: 35.84px;
+    height: 35.84px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 2px 2px 0px #00000026;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-weight: 800;
+    font-family: 'Inter';
+}
+
+.dice:active{
+    box-shadow: none;
+}
